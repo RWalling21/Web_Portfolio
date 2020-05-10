@@ -1,0 +1,16 @@
+{
+  "Courses": [
+    {
+      "Name": "Intro To Programming",
+      "Description": "Intro to programming gave me the needed basics to startprogramming in many different languages. Intro to programming went over the basic ideas of programming such as data types, conditional statements, formatting, data validation and other topics. Made it easier to jump into other programming languages faster."
+    },
+    {
+      "Name": "Web Dev with React",
+      "Description": "Web Dev with React taught me how to take my Javascript code to the next level. React is a popular front-end web framework with many great libraries. React had a significant learning curve and was very frustrating to learn, however, I am a better programmer for knowing it."
+    },
+    {
+      "Name": "Intro to UI / UX",
+      "Description": "Intro to UI / UX taught me how to make interesting and simple User Interfaces using a React Library called Material-UI. Material-UI takes Googles web development ideals and creates easy to use code to implement it into your website. Intro to UI / UX has helped make my website much more interesting and colorful."
+    }
+  ]
+}
