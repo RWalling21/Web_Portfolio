@@ -1,4 +1,14 @@
 {
+  "Home": [
+    {
+      "Name": "Skills",
+      "Description": "I am skilled in multiple programming languages, including Python, Javascript, Java, Lua, C#, C++, SQL, and HTML/CSS. I have experience making CLI, GUI and Web Applications connected to a Database. I have experience with many different Frameworks and libraries such as React, Flask, Numpy, Pandas, and Material-UI."
+    },
+    {
+      "Name": "Contact Info",
+      "Description": "Feel free to contact me by email at robert.walling@cthss.org or by phone at 860-391-7323."
+    }
+  ],
   "Courses": [
     {
       "Name": "Intro To Programming",
@@ -11,6 +21,40 @@
     {
       "Name": "Intro to UI / UX",
       "Description": "Intro to UI / UX taught me how to make interesting and simple User Interfaces using a React Library called Material-UI. Material-UI takes Googles web development ideals and creates easy to use code to implement it into your website. Intro to UI / UX has helped make my website much more interesting and colorful."
+    }
+  ],
+  "Jobs": [
+    {
+      "Name": "Google, CEO",
+      "Description": "During my time as CEO of Google, I decided to take all of the convenient styles we had created and redo them, though it was a controversial choice I think it was the right one. Many projects that I started, Google Glass,Google Car, Loon, and Stadia all failed magnificently! This does not matter however because I made so much money harvesting your data. Projects like Golang, Dart, Material.io, and other good uses of googles time and money I had no part of."
+    },
+    {
+      "Name": "Open AI, Senior Dev",
+      "Description": "My time at Open AI was exciting! We set out to make a superintelligent AI that would destroy the world, and succeeded! Why have you never heard of it? A good question that I refuse to answer. Open AI taught me everything I needed to know about machine learning and how to kill it in a catastrophic breach of security. Let's hope that never happens again..."
+    },
+    {
+      "Name": "Spotify, Ad Sales",
+      "Description": "You know when you're listening to Spotify, and instead of playing you a song, you get a loud ad? That was me! My team and I decided to make the ad as jarring and loud as possible, and for it to play at the least convenient time for the user. I think we succeeded on that front, and I am so proud of what I was able to develop."
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Song Creator",
+      "ShortSummary": "A simple python app that combines lyrics from a band.",
+      "LongSummary": "The project revolved around a bet I had with a friend that every Steely Dan song sounded the same. To prove this, I got the lyrics from 15 of their songs and mashed them together. The result was undeniable, it could be a song from their new album. I took this further though, having it automatically find and scrape lyrics from Genius.com, then combine those lyrics into a small song. One of my favorite projects that I made.",
+      "ProjectLink": "https://github.com/beb115/Song-Master"
+    },
+    {
+      "Name": "PyMonty",
+      "ShortSummary": "A simple python app that tests the Monty Hall Problem.",
+      "LongSummary": "This project was created because my instructor (Mr. Szydlowski) and I got into an argument about the Monty Hall problem. If you are unaware of the problem I encourage you to research it. No matter how many times I explained it to my instructor, he refused to believe me so I createda program to prove him wrong. The program plays the game a set number of times (I have it set to 10,000) and logs how many times you win, and lose. The program proved that you have a 66%chance of winning if you switch every time.",
+      "ProjectLink": "https://github.com/beb115/PyMonty"
+    },
+    {
+      "Name": "Web Rubric",
+      "ShortSummary": "One of my first projects, helps grade students.",
+      "LongSummary": "This project was created because I saw classmates that were working their absolute hardest but weren't finishing their work on time. I thought that there should be some sort of way to reward students for their hard work, after consulting with my instructor we decided that a web-based rubric using our school's evidence of learning standards was the way to go. This was one of my first projects, and I had only been coding for a couple of months. Just over one year ago I finalized this application, and am amazed at how much further I have come since.",
+      "ProjectLink": "https://github.com/beb115/Rubric-Frontend"
     }
   ]
 }
