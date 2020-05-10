@@ -39,16 +39,16 @@
   ],
   "Projects": [
     {
-      "Name": "Song Creator",
-      "ShortSummary": "A simple python app that combines lyrics from a band.",
-      "LongSummary": "The project revolved around a bet I had with a friend that every Steely Dan song sounded the same. To prove this, I got the lyrics from 15 of their songs and mashed them together. The result was undeniable, it could be a song from their new album. I took this further though, having it automatically find and scrape lyrics from Genius.com, then combine those lyrics into a small song. One of my favorite projects that I made.",
-      "ProjectLink": "https://github.com/beb115/Song-Master"
+      "Name": "EOL Website",
+      "ShortSummary": "Website made to demonstrait learning from home.",
+      "LongSummary": "During our time home it is important that we log what we are doing. The Evidence of Learning website is made to help document our work for proof of learning. My websites are currently documenting my working studying for Certificaions. The website helped me learn how to use advanced Javascript components in a web format.",
+      "ProjectLink": "https://github.com/beb115/EOL_Website"
     },
     {
-      "Name": "PyMonty",
-      "ShortSummary": "A simple python app that tests the Monty Hall Problem.",
-      "LongSummary": "This project was created because my instructor (Mr. Szydlowski) and I got into an argument about the Monty Hall problem. If you are unaware of the problem I encourage you to research it. No matter how many times I explained it to my instructor, he refused to believe me so I createda program to prove him wrong. The program plays the game a set number of times (I have it set to 10,000) and logs how many times you win, and lose. The program proved that you have a 66%chance of winning if you switch every time.",
-      "ProjectLink": "https://github.com/beb115/PyMonty"
+      "Name": "Portfolio Project",
+      "ShortSummary": "Web application made to show skills and projects.",
+      "LongSummary": "I am primarly a software developer so when looking for web applications to demonstrait I didn't have all to many choices. However I did... very recently make a Portfolio Website that you may be currently viewing. The portfolio was helpful in understanding how to parse JSON data into meaninful text on a website.",
+      "ProjectLink": "https://github.com/beb115/Web_Portfolio"
     },
     {
       "Name": "Web Rubric",

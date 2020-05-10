@@ -4,13 +4,13 @@ import MenuIcon from '@material-ui/icons/Menu';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import clsx from 'clsx';
-import songImg from './img/SongCreator.PNG';
-import montyImg from './img/PyMonty.PNG';
+import portfolioImg from './img/Portfolio.PNG';
 import rubricImg from './img/Rubric.PNG';
+import eolImg from './img/eol.PNG';
 import data from './text.json';
 
 const drawerWidth = 240;
-const imgArray = [songImg, montyImg, rubricImg]
+const imgArray = [eolImg, portfolioImg, rubricImg]
 
 const useStyles = makeStyles((theme) => ({
   root: {
